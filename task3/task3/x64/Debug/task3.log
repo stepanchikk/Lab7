@@ -1,0 +1,12 @@
+﻿  task3.cpp
+C:\Users\stepa\OneDrive\Робочий стіл\task3\task3\task3.cpp(51,29): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+      C:\Users\stepa\OneDrive\Робочий стіл\task3\task3\task3.cpp(51,29):
+      the template instantiation context (the oldest one first) is
+          C:\Users\stepa\OneDrive\Робочий стіл\task3\task3\task3.cpp(80,25):
+          see reference to class template instantiation 'LinkedList<int>' being compiled
+          C:\Users\stepa\OneDrive\Робочий стіл\task3\task3\task3.cpp(50,10):
+          while compiling class template member function 'void LinkedList<int>::generateRandomList(void)'
+              C:\Users\stepa\OneDrive\Робочий стіл\task3\task3\task3.cpp(101,32):
+              see the first reference to 'LinkedList<int>::generateRandomList' in 'main'
+  
+  task3.vcxproj -> C:\Users\stepa\OneDrive\Робочий стіл\task3\x64\Debug\task3.exe
