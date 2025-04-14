@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\stepa\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\task3\\",
+  "WorkspaceRootPath": "C:\\Users\\stepa\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Lab7OOP\\task3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E7B5849-85B5-4CDC-B69C-0171E48DE859}|task3\\task3.vcxproj|C:\\Users\\stepa\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\task3\\task3\\task3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3E7B5849-85B5-4CDC-B69C-0171E48DE859}|task3\\task3.vcxproj|C:\\Users\\stepa\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Lab7OOP\\task3\\task3\\task3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3E7B5849-85B5-4CDC-B69C-0171E48DE859}|task3\\task3.vcxproj|solutionrelative:task3\\task3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "task3.cpp",
-              "DocumentMoniker": "C:\\Users\\stepa\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\task3\\task3\\task3.cpp",
+              "DocumentMoniker": "C:\\Users\\stepa\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Lab7OOP\\task3\\task3\\task3.cpp",
               "RelativeDocumentMoniker": "task3\\task3.cpp",
-              "ToolTip": "C:\\Users\\stepa\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\task3\\task3\\task3.cpp",
+              "ToolTip": "C:\\Users\\stepa\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\Lab7OOP\\task3\\task3\\task3.cpp",
               "RelativeToolTip": "task3\\task3.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
