@@ -11,10 +11,10 @@ template <typename T>
 void shellSort(T arr[], int size) {
     for (int gap = size / 2; gap > 0; gap /= 2) {
         for (int i = gap; i < size; i++) {
-            T temp = arr[i];
-            int j;
+            T temp = arr[i]; //Зберігаємо поточний елемент
+            int j; //Змінна для внутрішнього циклу
             for (j = i; j >= gap && arr[j - gap] > temp; j -= gap) {
-                arr[j] = arr[j - gap];
+                arr[j] = arr[j - gap]; //Зсуваємо більший елемент вперед
             }
             arr[j] = temp;
         }
